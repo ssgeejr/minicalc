@@ -46,13 +46,10 @@ Examples:
 
 ## 👨‍💻 Author
 
-Built with ❤️ by \[Your Name] and shared with my amazing wife.
+ioexcept
 
 ---
 
 This project is just for fun and learning. Feel free to fork and play!
 
-```
 
-Let me know if you'd like the Python starter file (`minicalc.py`) too!
-```
